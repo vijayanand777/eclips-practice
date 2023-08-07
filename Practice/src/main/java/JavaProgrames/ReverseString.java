@@ -13,6 +13,9 @@ public class ReverseString {
 			nstr=ch+ nstr;
 		}
 		System.out.println(nstr);
+System.out.println("reversed String is"+nstr);
+
+
 		// TODO Auto-generated method stub
 
 	}
