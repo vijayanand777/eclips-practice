@@ -7,13 +7,15 @@ public class ReverseString {
 		String s="Vijayanand";
 		char ch;
 		String nstr="";
-		for (int i=0;i<=s.length();i--)
+		for (int i=0;i<s.length();i++)
+		
 		{
 			ch=s.charAt(i);
-			nstr=ch+ nstr;
+			nstr=ch+nstr;
 		}
 		System.out.println(nstr);
-		// TODO Auto-generated method stub
+		
+	
 
 	}
 
