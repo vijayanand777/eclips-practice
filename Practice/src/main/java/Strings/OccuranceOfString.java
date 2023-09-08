@@ -1,4 +1,4 @@
-package JavaProgrames;
+package Strings;
 
 public class OccuranceOfString {
 
